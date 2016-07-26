@@ -6,5 +6,5 @@
  * and open the template in the editor.
  */
 
-echo 'hello world5';
+echo 'hello world6';
 ?>
